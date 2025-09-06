@@ -19,7 +19,7 @@ Atributos
 Un atributo en HTML es una característica adicional que se agrega a una etiqueta para modificar su comportamiento o apariencia, o para proporcionar información extra. Siempre se coloca dentro de la etiqueta de apertura y sigue esta estructura:
 <etiqueta atributo="valor">Contenido</etiqueta>
 
- <a href="">Educación Digital</a>
+ <a href="">Google</a>
     <a href="https://www.google.com/" target="_blank"
       >Educación Digital</a
     >
