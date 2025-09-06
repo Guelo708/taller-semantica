@@ -1,8 +1,8 @@
 Taller de Investigación: Fundamentos de HTML
-Nombre del Estudiante: [Escribe tu nombre completo aquí]
+Nombre del Estudiante: [Miguel Eduaro Hernandez Hernandez]
 
 1. Anatomía de una Etiqueta HTML
-Etiqueta de Apertura y Cierre
+Etiqueta es la forma basica y estandarizada como se ingresa la informacion en una pagina Web.
 ¿Qué es una etiqueta de apertura?
 
 Escribe tu respuesta aquí.
